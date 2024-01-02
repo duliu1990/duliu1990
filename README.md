@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm Darren, a Full-Stack Software Engineer 👋
+
+- 🧠 My passion : keep learning
+- 🌐 My personal website: proliu.com
+- 📫 How to reach me: duliu1990@gmail.com
 
 <!--
 **duliu1990/duliu1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
